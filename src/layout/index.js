@@ -8,6 +8,7 @@ import "stack";
 import "histogram";
 import "hierarchy";
 import "pack";
+import "packnetwork";
 import "cluster";
 import "tree";
 import "treemap";
